@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://www.anamandara-resort.com/offer/uu-dai-ngay-le-tinh-nhan/' target='_blank'><img src='https://lh3.googleusercontent.com/-rlk-xkt4lJo/WKRC9BWx_AI/AAAAAAAAKhs/d7rZ0yFCGa0jBtKsCTjmYXG1A36lZebfQCL0B/w530-d-h472-p-rw/anamandaradalatresort.jpg' width='500px'/><br/>Trọn gói ngày valentine</a>. Chỉ 5,900,000 VND. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://www.anamandara-resort.com/offer/uu-dai-ngay-le-tinh-nhan/' target='_blank'><img src='https://lh3.googleusercontent.com/-rlk-xkt4lJo/WKRC9BWx_AI/AAAAAAAAKhs/d7rZ0yFCGa0jBtKsCTjmYXG1A36lZebfQCL0B/w530-d-h472-p-rw/anamandaradalatresort.jpg' width='500px'/><br/>Ana Mandara Dalat Resort - Trọn gói ngày valentine</a>. Chỉ 5,900,000 VND. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
